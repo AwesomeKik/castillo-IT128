@@ -1,0 +1,12 @@
+C:\Users\ffsca\source\repos\CastilloLE2\CastilloBlogDB\bin\Debug\CastilloBlogDB.dacpac
+C:\Users\ffsca\source\repos\CastilloLE2\CastilloBlogDB\bin\Debug\CastilloBlogDB.dll
+C:\Users\ffsca\source\repos\CastilloLE2\CastilloBlogDB\bin\Debug\CastilloBlogDB.pdb
+C:\Users\ffsca\source\repos\CastilloLE2\CastilloBlogDB\obj\Debug\CastilloBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\ffsca\source\repos\CastilloLE2\CastilloBlogDB\obj\Debug\CastilloBlogDB.dll
+C:\Users\ffsca\source\repos\CastilloLE2\CastilloBlogDB\obj\Debug\CastilloBlogDB.pdb
+C:\Users\ffsca\source\repos\CastilloLE3\CastilloBlogDB\bin\Debug\CastilloBlogDB.dacpac
+C:\Users\ffsca\source\repos\CastilloLE3\CastilloBlogDB\bin\Debug\CastilloBlogDB.dll
+C:\Users\ffsca\source\repos\CastilloLE3\CastilloBlogDB\bin\Debug\CastilloBlogDB.pdb
+C:\Users\ffsca\source\repos\CastilloLE3\CastilloBlogDB\obj\Debug\CastilloBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\ffsca\source\repos\CastilloLE3\CastilloBlogDB\obj\Debug\CastilloBlogDB.dll
+C:\Users\ffsca\source\repos\CastilloLE3\CastilloBlogDB\obj\Debug\CastilloBlogDB.pdb

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
+  <Project Path="BlogTestUI/BlogTestUI.csproj" />
+  <Project Path="CastilloBlogDB/CastilloBlogDB.sqlproj" Id="db975edb-33c8-48ad-82f7-1fcbff9c8aee">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
